@@ -1,0 +1,19 @@
+ody {
+    background: #222;
+    color: #fff;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    margin-top: 24px;
+    margin-bottom: 8px;
+}
+
+#pongCanvas {
+    background: #111;
+    display: block;
+    margin: 0 auto;
+    box-shadow: 0 0 24px #000;
+    border-radius: 8px;
+}
